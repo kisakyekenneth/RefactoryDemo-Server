@@ -4,6 +4,5 @@ export default class DayOffDto {
   startDate: Date;
 
   endDate: Date;
-
   reason: string;
 }
